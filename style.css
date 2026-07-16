@@ -1,0 +1,119 @@
+.imagem{
+
+    width: 100%;
+    height: 1000px;
+    
+    color: rgb(95, 183, 255);
+     background-image:url('primevideo-seo-logo.png');
+      background-repeat: no-repeat;
+      background-size: 100%;
+}
+
+
+.conteiner{
+    background-color: black;
+    display: flex;
+    padding:40px;
+}
+.Textos{
+    display: block;
+    float: left;
+    width: 60%;
+    background-color: black; 
+    color: white;
+}
+
+.img1{
+    display: block;
+    float: right;
+    width:40%;
+}
+.titulo1{
+    font-size:60px;
+    color: rgb(95, 183, 255);
+    text-align: center;
+}
+.texto1{
+    font-size:40px;
+    text-align:center;
+}
+.img2{
+    width:100%;
+}
+.conteiner3{
+    padding:300px;
+    background-color: black;
+}
+.titulo3{
+    color: rgb(95, 183, 255);
+    text-align: center;
+    font-size: 60px;
+    padding: 0px, 0px, 30px, 0px;
+}
+.formulario{
+    background-color: black;
+    color: rgb(95, 183, 255);
+    font-size: 50px;
+    text-align: center;
+    padding: 0px, 0px, 30px, 0px;
+}
+.formulario2{
+    font-size: 70px;
+}
+.conteiner2{
+    background-color: black;
+    display: flex;
+    padding:40px;
+
+}
+.Textos2{
+    display: block;
+    float: right;
+    width: 60%;
+    background-color: black; 
+    color: white;
+
+}
+.titulo2{
+    font-size:60px;
+    color:rgb(95, 183, 255);
+    text-align: center;
+}
+.texto2{
+    font-size:40px;
+    text-align: center;
+}
+.img3{
+    display: block;
+    float: left;
+    width:40%;
+}
+.img4{
+    width:100%;
+}
+*{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.assinaturas{
+    padding:200px;
+    background-color: black;
+    display: flex;
+    
+
+}
+.Titulo3{
+    color: rgb(95, 183, 255);
+    width:40%;
+    
+}
+.formulario3{
+    color:rgb(95, 183, 255);
+    
+    background-color: black;
+    
+}
+.formulario4{
+    text-align: justify;
+    font-size: 30px;
+}
+
